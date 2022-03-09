@@ -6,6 +6,9 @@ _here is my quote_ **some part in bold**
 
 We use HD EEG. We work with babies.
 
+#Article List
+
+1. [Article A](https://mahajanab.github.io/NuLab-Website.github.io/article1)
 ```markdown
 Syntax highlighted code block
 
