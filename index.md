@@ -9,7 +9,8 @@ We use HD EEG. We work with babies.
 # Article List
 
 1. [Article A](https://mahajanab.github.io/NuLab-Website.github.io/article1)
-2. 
+
+
 ```markdown
 Syntax highlighted code block
 
