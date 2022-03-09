@@ -13,7 +13,7 @@ We use HD EEG. We work with babies.
 
 ```markdown
 Syntax highlighted code block
-
+# *ignore me, unless you want to use a code snippet*
 # Header 1
 ## Header 2
 ### Header 3
