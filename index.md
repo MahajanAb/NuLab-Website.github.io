@@ -1,11 +1,10 @@
 ## Quote
-You can use the [editor on GitHub](https://github.com/MahajanAb/NuLab-Website.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_here is my quote_ **some part in bold**
 
-### Markdown
+### What we do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We use HD EEG. We work with babies.
 
 ```markdown
 Syntax highlighted code block
