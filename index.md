@@ -36,6 +36,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Yet to be filled
 
 # Support or Contact
-```
+
 ![Image](src) [Audrey van der Meer](https://www.ntnu.edu/employees/audrey.meer)     ![Image](src) [Ruud van der Weel](https://www.ntnu.edu/employees/ruud.weel)     ![Image](src) [Swati Agarwal](https://www.ntnu.edu/employees/swati.aggarwal)
-```
