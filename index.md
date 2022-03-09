@@ -37,4 +37,4 @@ Yet to be filled
 
 # Support or Contact
 
-[Audrey van der Meer](https://www.ntnu.edu/employees/audrey.meer) [Ruud van der Weel](https://www.ntnu.edu/employees/ruud.weel), [Swati Agarwal](https://www.ntnu.edu/employees/swati.aggarwal)
+![Image](src) [Audrey van der Meer](https://www.ntnu.edu/employees/audrey.meer)     ![Image](src) [Ruud van der Weel](https://www.ntnu.edu/employees/ruud.weel)     ![Image](src) [Swati Agarwal](https://www.ntnu.edu/employees/swati.aggarwal)
